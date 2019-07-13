@@ -13,7 +13,7 @@ gets.strip = input
 
 input=input_to_index
 
-input_to_index(user_input) 
+input_to_index(user_input)
 
 move(board)
 move(index)
