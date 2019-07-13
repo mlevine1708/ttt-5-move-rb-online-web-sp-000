@@ -1,12 +1,6 @@
 require_relative "../lib/move.rb"
 
-def update_array_at_with(array, index, value)
-  array[index]=value
-end
 
-def move(board, index, player)
-  board[index] = player
-end
 
 
 
