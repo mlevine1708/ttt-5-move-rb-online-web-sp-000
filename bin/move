@@ -16,3 +16,5 @@ input_to_index(user_input)=index
 move(board)
 move(index)
 move("X")
+
+display_board
